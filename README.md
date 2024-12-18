@@ -1,2 +1,2 @@
-# Faraway.com
+# SpotifyClone
 My first Project.
